@@ -80,7 +80,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Control\" />
+    <Folder Include="Controller\" />
     <Folder Include="Model\" />
     <Folder Include="View\" />
   </ItemGroup>
